@@ -1,6 +1,6 @@
 # 3D Running Analysis Studio 🏃‍♂️🔬
 
-Herramienta de código abierto para el análisis cinemático de carrera, diseñada originalmente para entornos de neurorrehabilitación.
+Herramienta de código abierto para el análisis cinemático de carrera, diseñada originalmente para entornos de rehabilitación.
 
 ## 🌟 Características
 - **Cinemática de Cuerpo Completo**: Basado en el modelo convencional de marcha modificado con método HARA
